@@ -1,0 +1,13 @@
+body{
+	text-align:center;
+
+}
+p{
+	color:lightblue;
+}
+body{
+	background-image: url("cool.gif");
+	background-repeat: no-repeat;
+	background-size: 1000px 1000px;
+
+}
